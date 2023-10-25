@@ -1,0 +1,35 @@
+.password-strength-indicator {
+    display: flex;
+}
+  
+.blockr {
+    background-color:#FE0000;
+    width: 20px;
+    height: 20px;
+    margin: 0 2px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+.block {
+    width: 20px;
+    height: 20px;
+    margin: 0 2px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+.blocky{
+    background-color: #F8DE22;
+    width: 20px;
+    height: 20px;
+    margin: 0 2px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+.blockg{
+    background-color: #96C291;
+    width: 20px;
+    height: 20px;
+    margin: 0 2px;
+    border: 1px solid black;
+    border-radius: 3px;
+}

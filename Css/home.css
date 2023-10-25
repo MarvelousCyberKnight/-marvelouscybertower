@@ -1,0 +1,22 @@
+/* Reset some default styles */
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the container */
+.container {
+    display: flex; /* Use flexbox to create a two-column layout */
+}
+
+/* Style the left section */
+.left-section {
+    flex: 1; /* Allow the left section to grow and fill available space */
+    padding: 20px;
+}
+
+/* Style the right section */
+.right-section {
+    flex: 1; /* Allow the right section to grow and fill available space */
+    padding: 20px;
+}
