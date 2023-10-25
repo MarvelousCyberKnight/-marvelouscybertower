@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "marvelouscybertower",
+  "private_key_id": "4b79822e1097ef24c90ee8e20a9f48a20a3e52c7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDpE89Os5TrPNtj\noDEw8nAGlKa3W+koF5uJE82ST6dU6kTJdCzcDC/fn3ApRU6Q3fT/fsvHcszrlZc1\nhYvCMkLk4dPZKTAmwiAZNknlBq+dPxTUnYT8Y9eiKeq7ejSOW3oIgyRggPWD0FfR\nDgdHqaFIswXg/QnRAEUZD8o5PgrBq3GYK7g38VJlhNgmKiI4ZbA1Q8kZAl8QZOf6\n3lTDaoAKE9SSfy9QfrG5s4e4qPvMdRUvJ4FDz/dgKDRXxuhELkzyjZ6QJk5pFhjA\n5stRhEB44+7X/1wxkliVE0Aacq7ft3GYzCtzjuIkVrsX7wE7zJ7ZmHhv1OUo7Qd9\nZzvWCfwPAgMBAAECggEAZS8PaWg2tyTVTVvG3yvwjDrOYX2KK7iL8idhsCnaR9fo\nAtjnfKPhyJ/rzk7jO6rP6HcAOlbRNVjcqwSN1sGBHuIW2Qizea/+xVM3IzES3h37\nig3UJMmnXCP8XmVAGakGwllEWozBiPbSmNQRPwAaH3hwjerr7wrB9I5RSSZw/v/9\niFhSjjYUDVyzDSivqufqkgKgRiwplmw2XyaLRgM57ajmvLj253u1JP3UeTZId4cM\nQGFkR8ISOmmqrst102DwlZCOSDoBEd2c64CALDJ1Tx/GuDSxOXCDnDO045kAbgwB\nkX2SZjRw2Jkb90H5caW5PIY5Nou9veIu8kg2UnXMAQKBgQD6uNxgYdKbKOa/gu40\nblDVBRwY2VpZFgIzj5zr5KrS7W+HeMZ8v7NobpKDrdn/UuUFgtJGNEtRfoJuvq3U\nDnvxo9ZHZx8p2Rkz/GDsKcEfdFrF7AG/JYRLnZqkdalJTmuJKQCF38xucg+EJTS6\nx1a2eff5G2/jFEUgBaKOACMqDwKBgQDt+9yVntAibyJYEwSHusVPbInROlWq4Lde\nO8rN3ehNaTTpirO+NsFdbK62ALlbrLPLQhIVDVHKtKHCB9x0Tx4yeGlLONNgBZyS\nn+N65ObmcenvF6LLJGxyi/zwjeyIjRKTnibL+S04iy6+hEBrQoVEqb0c92bCmD4C\nVNrafsYOAQKBgGeEuiDlYuKDYbqC4b0uKxu471/nJiGQL7qAOkc/c7SBKkJiAHnz\nYKzmsoHB3zdHT54V5KHt54cvV8VH31el31Dm14tFrZ1GsNxBAPehScal8PC1QAdf\nAx+BZB8xIYNN6KKKFlgwDiUv3O4vunS/5zKSa2skA+9bKCtPiE1fCyXLAoGBANoD\n73JKCRZihS32TiIhofw+zIqWTEC8mH+FeybZcaTpCoYggMVy1/XESNGHHEe1kQhV\nwMb0aseubrmYBgevK1TFJoC40DuZKHTScMz2wei+1rYoCwTam1bck520BsqZojkF\nmzklTp4MM4hpE7KvP/NFJHBS3RrL6ZKtNckQdlQBAoGBALYWd3GgqHp7Pz+Z0Fvq\nQX0ILDs/gZU65OAoBfa9NuuBX0eXgOvK3Tap8Tnh/XEQ06r6BrClpQlvW2juxGrc\nuDOE9yj26mA3Fo6MuJPnvFjGL+WpYkUcTpxJuDzniUf2kJcKgJDWw4bO+hHHI3/c\n34X8sCjxauXH/TIngIHwK9qs\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-o4bs2@marvelouscybertower.iam.gserviceaccount.com",
+  "client_id": "112487484076382145881",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-o4bs2%40marvelouscybertower.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

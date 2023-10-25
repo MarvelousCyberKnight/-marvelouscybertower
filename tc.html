@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/Css/home1.css">
+    <link rel="stylesheet" href="/Css/mdb.min.css">
+    <script src="/js/mdb.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="icon" type="image/png" href="/Images/finallogo.png"><title>Marvelous Cyber Tower (MCT)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            text-align: center;
+            color: #007BFF;
+        }
+        li {
+            padding: 10px;
+        }
+        li:hover {
+            background-color: #f0f0f0;
+            transition: background-color 0.3s;
+        }
+        p {
+            text-align: center;
+        }
+        .animated {
+            animation-duration: 2s;
+            animation-fill-mode: both;
+        }
+        @keyframes slideInLeft {
+            0% {
+                transform: translateX(-200px);
+            opacity: 0;
+            visibility: hidden;
+            display: none;
+            width: 0;
+        }
+        100% {
+            transform: translateX(0);
+            opacity: 1;
+            visibility: visible;
+            width: auto;
+        }
+    }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-light" style="background-color: #C4D7B2;">
+            <div class="container">
+                <a class="navbar-brand" href="#">
+                    <img src="/Images/finallogo.png" alt="MCT Logo" class="img-fluid" style="width: 150px;">
+                </a>
+            </div>
+        </nav>
+    </header>
+    <br>
+    <h1 class="animated slideInLeft">Marvelous Cyber Tower Password Manager - Terms and Conditions</h1>
+    <ul>
+        <li class="animated slideInLeft"><strong>Acceptance of Terms:</strong> By using Marvelous Cyber Tower's Password Manager Service, you acknowledge and agree to these terms and conditions. If you do not agree with these terms, please do not use our service.</li>
+        <li class="animated slideInLeft"><strong>Account Security:</strong> You are responsible for maintaining the security of your account. You must not share your login credentials with others. Marvelous Cyber Tower is not responsible for any unauthorized access to your account.</li>
+        <li class="animated slideInLeft"><strong>Data Privacy:</strong> Your data security and privacy are of utmost importance to us. We will not access, share, or sell your personal information. Please refer to our Privacy Policy for more details.</li>
+        <li class="animated slideInLeft"><strong>Password Storage:</strong> We securely store your passwords and encryption keys. However, we do not have access to your actual passwords. You are responsible for maintaining backups and ensuring the accuracy of your stored information.</li>
+        <li class="animated slideInLeft"><strong>Service Availability:</strong> We strive to provide uninterrupted service, but we may perform maintenance or updates that result in temporary unavailability. We are not liable for any losses due to service interruptions.</li>
+        <li class="animated slideInLeft"><strong>Use Restrictions:</strong> You agree not to use our service for any illegal or unauthorized purpose. You must not transmit any worms, viruses, or malicious code.</li>
+        <li class="animated slideInLeft"><strong>Payment and Subscriptions:</strong> If you choose a paid subscription, you agree to pay the specified fees. Payment is non-refundable, and your subscription will auto-renew unless canceled. Cancellation can be done through your account settings.</li>
+        <li class="animated slideInLeft"><strong>Termination:</strong> We reserve the right to terminate your access to the service if you violate these terms or engage in any activities harmful to our service or other users.</li>
+        <li class="animated slideInLeft"><strong>Changes to Terms:</strong> Marvelous Cyber Tower may update these terms and conditions from time to time. You will be notified of any significant changes, and continued use of the service implies acceptance of the updated terms.</li>
+        <li class="animated slideInLeft"><strong>Liability Limitation:</strong> To the fullest extent permitted by law, Marvelous Cyber Tower shall not be liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use our service.</li>
+        <li class="animated slideInLeft"><strong>Governing Law:</strong> These terms are governed by and construed in accordance with the laws of Indian Government.</li>
+        <li class="animated slideInLeft"><strong>Contact Us:</strong> If you have any questions or concerns about these terms and conditions, please contact us at contact@mct.com </li>
+    </ul>
+
+    <p class="animated slideInLeft">By using Marvelous Cyber Tower's Password Manager Service, you acknowledge that you have read and agreed to these terms and conditions. Thank you for entrusting us with your password management needs.</p>
+
+    <script>
+        // Add animation class to each list item for slide-in effect
+        const listItems = document.querySelectorAll('li');
+        listItems.forEach(item => item.classList.add('animated', 'slideInLeft'));
+    </script>
+</body>
+</html>
